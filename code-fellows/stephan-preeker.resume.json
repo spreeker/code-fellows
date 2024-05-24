@@ -1,0 +1,12 @@
+{
+    "basics": {
+        "name": "Stephan Preeker",
+        "summary": "Msc Software Engineer en AI, programmeer al sinds 2021 en bouw aan open-source spullen waarvan een library nu gebruikt wordt door NASA, trots op werk aan onder andere data.amsterdam.nl, signalen.org, parkeerplaatsen, parkeerscans, afval, energietransitie, scholen, basisregistraties en nu werk ik aan commondatafactory.nl. dego.vng.nl en dook.vng.nl",
+        "image": "https://gravatar.com/userimage/7071763/df5b5aca557317fbd0ab55e77048e266.jpeg?size=256",
+        "email": "stephan@preeker.net",
+        "url": "https://www.gitlab.com/spreeker/"
+    },
+    "skills": [
+        {"keywords": ["Golang", "Python", "PostgresSQL", "API", "Data-Engineering", "Vector-tiles", "Maps", "GeoData"]}
+    ]
+}
